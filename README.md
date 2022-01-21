@@ -1,4 +1,4 @@
-Simple Taskmanager
+Simple Taskmanager using ReactJS
 
 To run: type npm start in terminal
 
