@@ -1,4 +1,8 @@
-Simple Taskmanager using ReactJS, JSON server
+Simple Taskmanager using ReactJS
 
-To run: type npm run server
-then npm start 
+To run: type npm start in terminal
+
+Need to do:
+
+Add task function
+More options
