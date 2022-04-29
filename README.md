@@ -1,8 +1,3 @@
 Simple Taskmanager using ReactJS
 
-To run: type npm start in terminal
-
-Need to do:
-
-Add task function
-More options
+To run: type npm start in taskmanager folder and npm run server in src file
